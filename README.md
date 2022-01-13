@@ -1,2 +1,2 @@
-# 3-Lista-de-exerc-cios
+# 3-Lista-de-exercicios
 Resolução da lista de exercícios em Python
